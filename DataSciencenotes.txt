@@ -1,0 +1,5 @@
+Data anylsis:
+mean: summ of all elements divided by the number of the elements 
+median: the middle value when all data points are put in ascending order.
+mode: the most commonly occuring value in the set.
+
